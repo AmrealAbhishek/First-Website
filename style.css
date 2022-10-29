@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
 }
+#confetti-canvas {
+    position:absolute;
+    top:0;
+}
 
 .main{
     width: 100%;
